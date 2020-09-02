@@ -1,2 +1,5 @@
-*** About this repository ***
+# About this repository 
+### On English
 In this repository I will implement examples and tasks from the book "Applied analysis of text data in python". I am a student from Russia. Therefore I will try to write in 2 languages:Russian and English. In the process of studying a chapter of this book I will be to create a folder with the appropriate name. In this folder some files will be. For example, chapter summary (.txt), implementation of examples and tasks (.py or .ipynb) and etc. Perhaps it will be useful for others readers of this book.
+### On Russian
+В этом репозитории я буду реализовывать примеры и задачи из книга "Прикладной анализ текстовых данных на python". Я студент из России, поэтому буду стараться писать на двух языках: русском и английском. В процеессе изучении главы книги я буду создавать папку с соответсующим названием. В ней будут находиться краткое описание главы, реализация предложенных в главе практических заданий на языке python и т.д. Возможно, это будет полезно для других читателей этой книги. 
